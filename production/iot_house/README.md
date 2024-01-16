@@ -1,0 +1,2 @@
+Minigame:
+The player will be directed to a screen with a tic-tac-toe board. Once a player chooses their move, they'll have to answer a quiz question about Cybersecurity. If they choose the correct  answer, the AI will play a random move. If they choose wrong, the AI will use the Min-Max algorithm to determine the best move to play, making it harder to win for the winner. This will continue until the player chooses to leave.

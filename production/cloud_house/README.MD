@@ -1,0 +1,5 @@
+Cloud House Entrance:
+The player will be teleported to a cloud structure where they'll be introduced to three different NPCs. If the player at beginner level, they should only be able to properly with one of them. Of course, if the player has more exp the player will be able to access the other levels. 
+
+Minigame:
+Once they accept the dialogue instructions from the NPC, the screen will change to the minigame. The aim of this game is to correctly align the pipe parts to form a larger pipe structure, within the time allocated. Some of the parts are locked off and the only way to unlock them is to answer questions from the quiz, which will ask questions about Cloud Computing. Once the player, plays through the sub levels, they'll be directed to a success page where they can see their stats from their playtime.

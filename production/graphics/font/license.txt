@@ -1,0 +1,5 @@
+These fonts are retrieved from these following sources:
+
+1) https://mounirtohami.itch.io/minimalpixel-font
+2) https://emhuo.itch.io/peaberry-pixel-font
+3) https://datagoblin.itch.io/monogram

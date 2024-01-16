@@ -1,0 +1,1 @@
+Text2Speech.py handles text-to-speech functionality
