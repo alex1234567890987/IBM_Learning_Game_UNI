@@ -1,8 +1,7 @@
 # IBM_Learning_Game_UniProject
 An educational game made for a client at IBM  !   
 
-Group Project - Responsible for -> All of: Outside World, CyberSec Game, Statistics Page, Credits Page; 
-                                   Part of:  Data Science Game, Database, Quiz Page
+Group Project - Responsible for -> All of: Outside World, CyberSec Game, Statistics Page, Credits Page; Part of:  Data Science Game, Database, Quiz Page
 
 ## How to Run
 Make sure you are in directory 'production'.
