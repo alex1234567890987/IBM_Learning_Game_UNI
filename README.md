@@ -3,6 +3,8 @@ An educational game made for a client at IBM  !
 
 Group Project - Responsible for -> All of: Outside World, CyberSec Game, Statistics Page, Credits Page; Part of:  Data Science Game, Database, Quiz Page
 
+<img width="960" alt="Screenshot 2024-10-02 174456" src="https://github.com/user-attachments/assets/9b0f48d2-bcd6-4a0a-8f5f-288511874992">
+
 ## How to Run
 Make sure you are in directory 'production'.
 ```
